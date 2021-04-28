@@ -14,7 +14,7 @@ on:
   release:
     types: [published]
 
-jobs:
+ jobs:
 
   build_openwrt:
 
